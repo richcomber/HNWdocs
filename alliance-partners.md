@@ -4,8 +4,8 @@ As our slogan states – Your Network is Your Net Worth – we understand the po
 
 ![](<.gitbook/assets/Alliance\_Nov 2021.jpg>)
 
-|       Sidekick Finance | City of Atlantus | Crypto\_Logic    |
-| ---------------------- | ---------------- | ---------------- |
-| Crypto Hideout         | Crypto Hunters   | Phoenix Holdings |
-| Gangster Finance       | Degen Protocol   | Crypto Ballers   |
-| Queen of BSC           | Driven           |                  |
+| City of Atlantus | Crypto\_Logic    | Sidekick Finance |
+| ---------------- | ---------------- | ---------------- |
+| Crypto Hunters   | Phoenix Holdings | Crypto Hideout   |
+| Degen Protocol   | Crypto Ballers   | Gangster Finance |
+| Driven           |                  | Queen of BSC     |
